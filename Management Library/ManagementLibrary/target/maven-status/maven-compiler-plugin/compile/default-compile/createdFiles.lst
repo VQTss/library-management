@@ -1,0 +1,16 @@
+com\models\Category.class
+com\models\Reader.class
+com\DAO\UserDAO.class
+com\controllers\Login.class
+com\models\GetCookie.class
+com\controllers\CategoryControllers.class
+com\controllers\BookControllers.class
+com\controllers\Logout.class
+com\models\User.class
+com\DAO\ReaderDAO.class
+com\controllers\UserManual.class
+com\DAO\CategoryDAO.class
+com\DAO\BookDAO.class
+com\connections\DBConnections.class
+com\controllers\ReaderControllers.class
+com\models\Book.class
